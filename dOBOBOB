@@ -1,0 +1,7 @@
+ => 
+[32m#<User:0x00007fa679a32880[0m
+ id: [34m[1m2[0m,
+ name: [31m[1m"[0m[31mJimmy James[0m[31m[1m"[0m,
+ email: [31m[1m"[0m[31mjimmyjames@gmail.com[0m[31m[1m"[0m,
+ created_at: Sun, 28 Jan 2024 23:22:45.237155000 UTC +00:00,
+ updated_at: Sun, 28 Jan 2024 23:22:45.237155000 UTC +00:00[32m>[0m 
